@@ -1,3 +1,6 @@
+bot_raw = {}
+
+bot_raw["BOTNAME1"] = {
 --=======SETUP=======--
 webhooks = {
   ["LINK"]  = '',
@@ -63,4 +66,5 @@ bot_environment = {
             ["Limit"] = 5,
             ["Delay"] = 30 --Second
               }
+}
 }
