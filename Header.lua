@@ -39,6 +39,13 @@ bot_mode = {
   ["Coordinate_Break"] = {2,1}
 }
 ------------------------
+event = {
+  ["Anti_Toxic_Waste"] = true,
+  ["Event"] = true,
+  ["Item_Event"] = {},
+  ["Limit"] = 100
+}
+------------------------
 bot_environment = {
   ["Trash"] = {
               ["Limit"] = 120,
